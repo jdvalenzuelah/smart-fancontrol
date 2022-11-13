@@ -11,7 +11,7 @@ if __name__ == '__main__':
         host='192.168.0.177',
         port=22,
         username='jdsrv',
-        password="",
+        password="$Guatemala2016",
         commands=DellIDRAC6(),
         tempsensor=LinuxSensors()
     )
